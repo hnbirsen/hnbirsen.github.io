@@ -2,7 +2,7 @@
   "force_update_config": {
     "ios": {
       "min_version": "2.0",
-      "force_update_enabled": false,
+      "force_update_enabled": true,
       "store_url": "https://apps.apple.com/app/id6756360843"
     },
     "android": {
